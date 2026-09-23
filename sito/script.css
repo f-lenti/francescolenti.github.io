@@ -1,7 +1,0 @@
-document.getElementById('contactBtn').addEventListener('click', function() {
-
-
-alert('Scrivimi una mail a: info@francescolenti.it');
-
-
-});
